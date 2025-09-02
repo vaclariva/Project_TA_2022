@@ -1,0 +1,14 @@
+Role : Super Admin
+Nama : Super Admin ScrumApps
+Email : superadmin@gmail.com
+Pass : scrumapps123
+
+Role : Business Analyst
+Nama : Support
+Email : support@gmail.com
+Pass : scrumapps123
+
+Role : Team Developer
+Nama : Meydieta DT
+Email : meyclariva@gmail.com
+Pass : scrumapps123
